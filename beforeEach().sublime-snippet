@@ -1,8 +1,7 @@
 <snippet>
   <content><![CDATA[
-beforeEach(function(){
+beforeEach ->
   ${1:// Add your individual test setups here}
-});
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>beforeEach</tabTrigger>

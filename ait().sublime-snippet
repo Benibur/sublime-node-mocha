@@ -1,10 +1,9 @@
 <snippet>
   <content><![CDATA[
-it("should ${1:behave like}", function(done){
-  ${2:// Add your behavior testing code here}
-  // Make sure you call done() when finished
-  done();
-});
+it "should ${1:behave like}", (done) ->
+    ${2:// Add your behavior testing code here}
+    // Make sure you call done() when finished
+    done()
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>ait</tabTrigger>

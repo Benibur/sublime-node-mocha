@@ -1,8 +1,7 @@
 <snippet>
   <content><![CDATA[
-describe("${1:a trait}", function(){
+describe "${1:a trait}", ->
   ${2:// Add your setup and assertions here}
-});
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>describe</tabTrigger>
