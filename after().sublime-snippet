@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 after ->
-  ${1:// Add your test teardown here}
+    ${1:// Add your test teardown here}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>after</tabTrigger>

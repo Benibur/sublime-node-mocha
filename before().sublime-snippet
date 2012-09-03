@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 before ->
-  ${1:// Add your test setup here}
+    ${1:// Add your test setup here}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>before</tabTrigger>

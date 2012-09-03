@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 it "should ${1:behave like}", ->
-  ${2:// Add your behavior testing code here}
+    ${2:// Add your behavior testing code here}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>it</tabTrigger>

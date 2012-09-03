@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 afterEach ->
-  ${1:// Add your individual test teardowns here}
+    ${1:// Add your individual test teardowns here}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>afterEach</tabTrigger>
